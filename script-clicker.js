@@ -31,6 +31,7 @@ function move() {
 
     document.getElementById('patate').style.left = posX + 'px';
     document.getElementById('patate').style.top = posY + 'px';
+    document.getElementById('patate').setAttribute('tabindex', '-1');
 }
 
 function toggleAside() {

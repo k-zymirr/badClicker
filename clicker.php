@@ -8,7 +8,7 @@
 </head>
 <body>
     <main>
-        <button onclick="incrementScore()" id="patate"></button>
+        <button tabindex="-1" onclick="incrementScore()" id="patate" ></button>
     </main>
     <div class="cote open">
         <button onclick="toggleAside()" class="buttonShowAside">

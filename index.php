@@ -13,7 +13,7 @@
     <section class="sign-up">
         <form action="" method="post" class="sign-up-form">
             <a href="./launchGame.php" id="check">&check;</a>
-            <img id="form-logo" src="./img/patate.png" alt=""> 
+            <img id="form-logo" src="./img/patate.png" alt="">
 
             <label for="pseudo">Pseudo</label>
                 <input type="pseudo" id="pseudo" name="pseudo" name="pseudo" value="Tapez votre pseudo" tabindex="-1">
