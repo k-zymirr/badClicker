@@ -14,7 +14,6 @@ Le joueur aura une page de statistiques pour voir ses performances sur le jeu. (
 Dans un soucis du détail, l'équipe de développement a décidé de créer une interface utilisateur aux petits oignons.
 Un design simple et épuré qui s'allie parfaitement avec la simplicité de manipulation. Vous pourrez dans un premier temps
 retrouver un menu de création de compte afin de vous permettre l'accès du jeu.
-Un petit conseil, afin de démarrer le jeu suite à votre enregistrement.
 
 ## Défi
 
