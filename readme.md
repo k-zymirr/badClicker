@@ -1,5 +1,7 @@
 # Le meilleurs des clickers
 
+Projet dans le cadre de La Nuit de L'Info 2024
+
 ## Description
 
 Le but de ce projet est de créer un jeu de clicker. Mais pas n'importe lequel,
